@@ -1,6 +1,6 @@
 # kraken
 
-![images](http：//github.com/gigantic-kraken/kraken/raw/master/images/images.png)	
+![images](http://github.com/gigantic-kraken/kraken/raw/master/images/images.png)	
 
 
 
