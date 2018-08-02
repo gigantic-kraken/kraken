@@ -1,6 +1,6 @@
 # kraken
 
-![images](/home/chen/桌面/images.png)	
+![images](http：//github.com/gigantic-kraken/kraken/raw/master/images/images.png)	
 
 
 
